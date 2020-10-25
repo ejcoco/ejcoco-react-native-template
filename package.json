@@ -1,0 +1,20 @@
+{
+  "name": "ejcoco-react-native-template-typescript",
+  "version": "0.0.1",
+  "description": "Typescript & react-nativation & redux & redux-thunk",
+  "files": [
+    "template",
+    "template.config.js"
+  ],
+  "keywords": [
+    "react-native",
+    "typescript",
+    "jest",
+    "template",
+    "boilerplate",
+    "redux",
+    "react-navigation"
+  ],
+  "author": "Eduardo Breno <eduardobreno@msn.com>",
+  "license": "MIT"
+}
