@@ -10,12 +10,13 @@
 npx react-native init MyApp --template https://github.com/ejcoco/ejcoco-react-native-template.git
 ```
 
-## Main features
-* `@react-navigation`
-* `redux`
-* `react-redux`
-* `redux-thunk`
-* `typescript`
+## Main dependencies
+* [@react-navigation](https://reactnavigation.org/)
+* [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash)
+* [redux](https://react-redux.js.org/)
+* [react-redux](https://react-redux.js.org/)
+* [redux-thunk](https://github.com/reduxjs/redux-thunk)
+* typescript
 
 ## Redux
 There are two ways to use redux with `HOC` and `hooks`
@@ -25,8 +26,10 @@ There are two ways to use redux with `HOC` and `hooks`
 > It's up to you decide what want or create a new one
 > 
 ## To do
-- [ ] Splash screen
+- [x] Splash screen
+- [ ] Fetch lib?
 - [ ] Unit tests
 - [ ] Some selectors for example 
+- [ ] Redux toolkit? 
 - [ ] Styled components?
 - [ ] Some UI framework (Native base/React Native elements/React Native Paper)? 
